@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.wipro.oops;
+package com.wipro.java.oops;
 
 /**
  * @author prakhar

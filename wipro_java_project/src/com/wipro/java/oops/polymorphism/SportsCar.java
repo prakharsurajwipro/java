@@ -1,4 +1,4 @@
-package com.wipro.oops.polymorphism;
+package com.wipro.java.oops.polymorphism;
 
 // Child class inheriting from Car
 public class SportsCar extends Car {

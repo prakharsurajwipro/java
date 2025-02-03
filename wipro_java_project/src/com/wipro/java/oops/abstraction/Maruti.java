@@ -1,4 +1,4 @@
-package com.wipro.oops.abstraction;
+package com.wipro.java.oops.abstraction;
 
 
 public class Maruti extends Car {

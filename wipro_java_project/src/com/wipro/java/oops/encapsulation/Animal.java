@@ -1,4 +1,4 @@
-package com.wipro.oops.encapsulation;
+package com.wipro.java.oops.encapsulation;
 
 public class Animal {
 
@@ -40,6 +40,6 @@ public class Animal {
         System.out.println(a1.getAge());
         System.out.println(a1.getSpecies());
 
-        a1.setAge(-3); // Invalid age
+        a1.setAge(-3); 
     }
 }

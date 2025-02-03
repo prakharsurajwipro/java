@@ -1,4 +1,4 @@
-package com.wipro.oops.abstraction;
+package com.wipro.java.oops.abstraction;
 
 //  Abstract class enforcing abstraction
 public abstract class Car {
