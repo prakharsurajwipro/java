@@ -12,7 +12,7 @@ public class Flowers {
 	String name; // This is for storing name of flower
 	String color;// This is for storing color of flower
 	
-	Flowers(String name,String color) //Constructor to initialize value
+	Flowers(String name,String color) //Constructor to initialize value..
 	{
 		
 		this.name=name;  

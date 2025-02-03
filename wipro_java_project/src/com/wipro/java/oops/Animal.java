@@ -12,8 +12,8 @@ package com.wipro.java.oops;
  * Getters have return value
  * Setter have no return value
  * properties are determined using private fields
- * values are behaviors which are determined via setters
- * toString will convert the entire animal class with properties and behaviors 
+ * values are behaviors which are determined via setters....
+ * toString will convert the entire animal class with properties and behaviors.
  */ 
 public class Animal {
 

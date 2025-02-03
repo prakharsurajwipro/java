@@ -24,7 +24,7 @@ class Car {
 
     // Method to be overridden (Polymorphism)
     public void displayInfo() {  
-        System.out.println("Car Brand:: " + brand);
+        System.out.println("Car Brand:::: " + brand);
         System.out.println("Speed: " + speed + " km/h");
     }
 }

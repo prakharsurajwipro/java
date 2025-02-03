@@ -11,7 +11,7 @@ public class Audi extends Car {
 
  @Override
  public void speed() {
-     System.out.println("Audi Speed: 250 km/hour");
+     System.out.println("Audi Speed: 250 km/hour..");
  }
 
  public static void main(String[] args) {
