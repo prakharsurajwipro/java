@@ -12,7 +12,7 @@ public class ElectricCarrr extends Car {
         ElectricCarrr myCar = new ElectricCarrr();
 
         // Setting values before calling displayInfo()
-        myCar.setBrand("Tesla");
+        myCar.setBrand("Teslaa");
         myCar.setSpeed(250);
 
         // Now calling displayInfo() to display values

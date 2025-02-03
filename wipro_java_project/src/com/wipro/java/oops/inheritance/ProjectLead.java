@@ -16,7 +16,7 @@ public class ProjectLead extends Employee{
  */
 public static void main(String a[])
   {
-	  //Child object is instantiated from child constructor..
+	  //Child object is instantiated from child constructor...
 	  //Parent Class consumes the properties and behaviors of child class
 
 	 Employee employee=new ProjectLead();

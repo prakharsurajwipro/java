@@ -13,7 +13,7 @@ public class SportsCar extends Car {
         SportsCar myCar = new SportsCar();
 
         //Setting values before calling displayInfo()
-        myCar.setBrand("Ferrari");
+        myCar.setBrand("Ferrarii");
         myCar.setSpeed(320);
 
        // Now calling displayInfo() to display values

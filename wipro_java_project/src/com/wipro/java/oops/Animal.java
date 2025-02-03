@@ -33,7 +33,7 @@ public class Animal {
 		this.name = "dog";
 	}
 
-	//getter for Animal age
+	//getter for Animal agee
 	public int getAge() {	
 		return age;
 	}

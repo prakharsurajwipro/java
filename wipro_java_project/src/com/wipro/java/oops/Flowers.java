@@ -9,7 +9,7 @@ package com.wipro.java.oops;
 public class Flowers {
 
 	
-	String name; // This is for storing name of flower
+	String name; // This is for storing name of flowerr
 	String color;// This is for storing color of flower
 	
 	Flowers(String name,String color) //Constructor to initialize value..

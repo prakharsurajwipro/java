@@ -20,7 +20,7 @@ public class Employee {
 	//Private properties =structure 
 	private int empid;  // This is employee id
 	private String name; // This is employee name..
-	private float salary;// This is employee salary
+	private float salary;// This is employee salary..
 	private boolean isTaxApplicable;
 	
 	//getter for empid
