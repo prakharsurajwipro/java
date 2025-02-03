@@ -17,7 +17,7 @@ public class ElectricCar extends Car {
         ElectricCar myCar = new ElectricCar(); // ✅ Creating an instance
 
         // Setting values before calling displayInfo()
-        myCar.setBrand("Tesla");
+        myCar.setBrand("Teslaa");
         myCar.setSpeed(250);
 
        //Calling overridden method (Polymorphism)

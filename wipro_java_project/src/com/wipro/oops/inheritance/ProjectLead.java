@@ -21,7 +21,7 @@ public static void main(String a[])
 
 	 Employee employee=new ProjectLead();
 	  employee.setEmpid(1234);
-	  employee.setName("prakhar");
+	  employee.setName("prakharsuraj");
 	  employee.setSalary(24000f);
 	  
 	  System.out.println(employee.getEmpid());

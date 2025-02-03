@@ -20,7 +20,7 @@ public class Manager extends Employee{
 	  
 	  Employee employee=new Manager();
 	  employee.setEmpid(4321);
-	  employee.setName("prakhar");
+	  employee.setName("prakharsuraj");
 	  employee.setSalary(34000f);
 	  
 	  System.out.println(employee.getEmpid());

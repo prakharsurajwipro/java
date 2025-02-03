@@ -6,12 +6,12 @@ public class Audi extends Car {
  
  @Override
  public void mileage() {
-     System.out.println("Audi Mileage: 15 km/l");
+     System.out.println("Audi Mileage: 15 km/litre");
  }
 
  @Override
  public void speed() {
-     System.out.println("Audi Speed: 250 km/h");
+     System.out.println("Audi Speed: 250 km/hour");
  }
 
  public static void main(String[] args) {

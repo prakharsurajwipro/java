@@ -62,7 +62,7 @@ public class Animal {
 	 @Override
 	public String toString()
 	{
-		 return "Animal{name='" + name + "', age=" + age + ", weight=" + weight + "}";
+		 return "Animal{name='" + name + "', age=" + age + ", weightt= " + weight+ "}";
 	}
 
 
