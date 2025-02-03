@@ -1,4 +1,4 @@
-package com.wipro.oops;
+package com.wipro.oops.inheritance;
 
 /**
  * Parent class=Employee
