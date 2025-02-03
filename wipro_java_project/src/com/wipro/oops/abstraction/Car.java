@@ -1,9 +1,9 @@
-package com.wipro.oops.abstraction; // ✅ Correct package
+package com.wipro.oops.abstraction;
 
-// ✅ Abstract class enforcing abstraction
+//  Abstract class enforcing abstraction
 public abstract class Car {
 
-    // ✅ Abstract methods (Must be implemented by child classes)
+    //  Abstract methods 
     public abstract void mileage();
     public abstract void speed();
 }
