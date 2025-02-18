@@ -16,7 +16,7 @@ public class FibonacciTreeMap {
 
         System.out.println("Fibonacci Series stored in TreeMap::");
         for (Map.Entry<Integer, Long> entry : fibonacciMap.entrySet()) {
-            System.out.println("Term " + entry.getKey() + " -> " + entry.getValue());
+            System.out.println("Term: " + entry.getKey() + " -> " + entry.getValue());
         }
     }
 
