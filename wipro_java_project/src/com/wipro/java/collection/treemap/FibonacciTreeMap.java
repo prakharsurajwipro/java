@@ -14,7 +14,7 @@ public class FibonacciTreeMap {
         TreeMap<Integer, Long> fibonacciMap = new TreeMap<>();
         generateFibonacci(n, fibonacciMap);
 
-        System.out.println("Fibonacci Series stored in TreeMap:");
+        System.out.println("Fibonacci Series stored in TreeMap::");
         for (Map.Entry<Integer, Long> entry : fibonacciMap.entrySet()) {
             System.out.println("Term " + entry.getKey() + " -> " + entry.getValue());
         }

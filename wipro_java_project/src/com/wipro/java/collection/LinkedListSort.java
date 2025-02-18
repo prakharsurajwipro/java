@@ -42,7 +42,7 @@ public class LinkedListSort {
         // Sorting the LinkedList using Comparator
         list.sort(new SortById());
 
-        System.out.println("\nAfter Sorting by ID:");
+        System.out.println("\nAfter Sorting by ID::");
         for (Person p : list) {
             System.out.println(p);
         }
