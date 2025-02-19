@@ -1,10 +1,11 @@
 package com.wipro.java.collection.treemap;
 
+
 import java.util.Map;
 import java.util.Scanner;
 import java.util.TreeMap;
 
-public class FibonacciTreeMap {
+public class FiboTreeMap1 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter the number of Fibonacci terms: ");

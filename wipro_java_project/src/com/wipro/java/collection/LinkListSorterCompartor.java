@@ -25,7 +25,7 @@ class SortById implements Comparator<Person> {
     }
 }
 
-public class LinkedListSort {
+public class LinkListSorterCompartor {
     public static void main(String[] args) {
         LinkedList<Person> list = new LinkedList<>();
 
@@ -48,4 +48,3 @@ public class LinkedListSort {
         }
     }
 }
-
